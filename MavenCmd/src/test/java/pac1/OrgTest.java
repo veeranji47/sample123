@@ -4,8 +4,8 @@ import org.testng.annotations.Test;
 
 public class OrgTest {
 	@Test
-	public void createContactTest() {
-		System.out.println("execute create contact test");
+	public void createOrgTest() {
+		System.out.println("execute create organization test");
 		String URL=System.getProperty("url");
 		String BROWSER=System.getProperty("browser");
 		String USERNAME=System.getProperty("username");
@@ -18,8 +18,8 @@ public class OrgTest {
 	}
 	
 	@Test
-	public void modifyContactTest() {
-		System.out.println("execute modify contact test");
+	public void modifyOrgTest() {
+		System.out.println("execute modify organization test");
 	}
 
 
