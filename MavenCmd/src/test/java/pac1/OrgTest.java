@@ -20,6 +20,8 @@ public class OrgTest {
 	@Test
 	public void modifyOrgTest() {
 		System.out.println("execute modify organization test");
+		System.out.println("hi");
+		System.out.println("hi");
 	}
 
 
