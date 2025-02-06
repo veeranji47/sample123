@@ -10,7 +10,7 @@ public class ContactTest {
 	
 	@Test
 	public void modifyContactTest() {
-		System.out.println("execute modify contact test");
+		//System.out.println("execute modify contact test");
 	}
 
 
